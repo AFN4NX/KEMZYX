@@ -44,7 +44,7 @@ Sk key checker:
 {r_text}{r_logo} - <code>{inp}</code>[{r_respo}]
 
 <b>Scrapped By</b> -» <a href= "tg://user?id={m.sender.id}">{m.sender.id}</a>
-<b>Host</b> -» <a href="https://t.me/roldexverse">RoldexVerse</a>
+<b>Host</b> -» <a href="https://t.me/ccxen_reup">C C X E N</a>
 """
     await m.reply(text)
         
