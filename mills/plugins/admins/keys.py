@@ -66,7 +66,7 @@ async def _(m):
 @bot_cmd(cmd="dkey", admins_only = True)
 async def _(m):
     params = m.pattern_match.group(1).strip()
-    if not params or not ( params.startswith('MILLIE-') and params.endswith('PREMIUM') ):
+    if not params or not ( params.startswith('KEMZYX-') and params.endswith('PREMIUM') ):
         await m.sod("Wrong Input Check Example: <code>/dkey key</code>", time = 5)
         return
     is_key = await m.mdb.find_one('keys', {'_id': params})
