@@ -174,9 +174,9 @@ async def Carbon1(code: str = None, bgcolour: str = 'rgba(120, 19, 254, 100)'):
 
         _ = await client.post(url, json = params)
         data =  await _.read()
-        with open('images/Mille_Rusk.jpg', 'wb') as wr:
+        with open('images/mills.jpg', 'wb') as wr:
             wr.write(data)
-        return 'images/Mille_Rusk.jpg'
+        return 'images/mills.jpg'
 
 
 
