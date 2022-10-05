@@ -32,12 +32,12 @@ async def _(m):
 ◦ 10$ - Get access to all gates. for 70 days
 ◦ 20$ - Get access to all gates. for 200 days
 
-○ Payment methods: Crypto, Bank Transfer, Airtm (No Paypal)
+○ Payment methods: Crypto, WebMoney , Payeer.
 
 └──────────────────────────┘
 """
     buttons = [
-        Button.url('Buy Now', 'https://t.me/r0ld3x'),
-        Button.url('Test Keys', 'https://t.me/roldexverse'),
+        Button.url('Buy Now', 'https://t.me/KEMZYX'),
+        Button.url('Test Keys', 'https://t.me/AFN4NX'),
     ]
     await m.reply(text,buttons= buttons, file = BOT_PIC)
