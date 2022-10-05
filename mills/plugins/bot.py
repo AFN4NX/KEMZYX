@@ -45,14 +45,14 @@ async def _(m,lang):
         name = m.full_name(),
         id = m.sender_id,
     )
-    SUPPORT_CHAT = await m.adb.get_key("SUPPORT_CHAT") or "roldexverse"
+    SUPPORT_CHAT = await m.adb.get_key("SUPPORT_CHAT") or "CCXENTOOL"
     buttons = [
         [
             Button.url("Support", f'https://t.me/{SUPPORT_CHAT}'),
-            Button.url("Source code", 'https://t.me/r0ld3x'),
+            Button.url("Source code", 'https://t.me/AFN4NX'),
         ],[
-            Button.url("Donate", 'https://www.buymeacoffee.com/r0ld3x'),
-            Button.url("Owner", 'https://t.me/r0ld3x'),
+            Button.url("SHOP", 'https://aflitshop.com'),
+            Button.url("Owner", 'https://t.me/KEMZYX'),
         ]
     ]
     link = await m.client.download_profile_photo(m.sender_id)
