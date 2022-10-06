@@ -8,7 +8,7 @@
 - <code>/demote</code>: Demote replied user.
 ──────────────────────
 
-JOIN <a href="https://t.me/ccxentool">CCXENTOOL</a>
+JOIN <a href="https://t.me/ccxentool"> CCXENTOOL </a>
 """
 import inspect
 import io
