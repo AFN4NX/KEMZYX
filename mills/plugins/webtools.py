@@ -9,7 +9,7 @@
 - <code>/shorturl</code> url : Download YouTube videos.
 ──────────────────────
 
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
+JOIN <a href="https://t.me/ccxentool">CCXENTOOL</a>
 """
 import asyncio
 import inspect
