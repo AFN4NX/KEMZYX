@@ -7,7 +7,7 @@
 - <code>/help<code>: Get all available commands with detailed information.
 ──────────────────────
 
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
+JOIN <a href="https://t.me/ccxentool">CCXENTOOL</a>
 """
 import inspect
 import io
