@@ -17,7 +17,7 @@
 - <code>/pvtusers</code>: Get all privatt users.
 ──────────────────────
 
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
+JOIN <a href="https://t.me/CCXEN_REUP">CCXENTOOL</a>
 """
 
 
