@@ -154,7 +154,7 @@ def create_telegraph():
         telegraph_client.create_account(short_name = short_name,  author_url = profile_url, author_name = full_name)
     except Exception as er:
         if "SHORT_NAME_TOO_LONG" in str(er):
-            telegraph_client.create_account(short_name = "Millie",  author_url = profile_url, author_name = full_name)
+            telegraph_client.create_account(short_name = "KEMZYX",  author_url = profile_url, author_name = full_name)
         else:
             log.exception(er)
             return
