@@ -80,8 +80,8 @@ def cmd_regex_replace(cmd):
         .replace("(", "")
         .replace(")", "")
         .replace("?(\\d+)", "")
-        .replace("|@roldexeversepybot|$", "")
-        .replace("|@roldexeversepybot|", "")
+        .replace("|@xenper69bot|$", "")
+        .replace("|@rxenper69bot|", "")
         .replace(" - Admins Only", "").strip()
     )
 
