@@ -7,7 +7,7 @@
 - <code>/randpic</code> : Get a random user pic.
 ──────────────────────
 
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
+JOIN <a href="https://t.me/ccxentool">CCXENTOOL</a>
 """
 import inspect
 import io
