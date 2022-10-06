@@ -9,7 +9,7 @@
 <code>/short</code> url : Get short link of long links..
 ──────────────────────
 
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
+JOIN <a href="https://t.me/ccxentool">CCXENTOOL</a>
 """
 import asyncio
 import inspect
