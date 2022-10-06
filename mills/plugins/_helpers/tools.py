@@ -34,8 +34,8 @@ async def make_cmds(m):
             md = markdown.markdown('/' + _)
             text += "\n" + md + "\n"
         text += "\n\n"
-    t = Telegraph_client.create_page(html_content = text, title = 'Commands Of Millie')
-    await m.sod(f"All Millie Cmds: [Click Here]({t['url']})")
+    t = Telegraph_client.create_page(html_content = text, title = 'Commands Of KEMZYX')
+    await m.sod(f"All KEMZYX Cmds: [Click Here]({t['url']})")
 
 
 
