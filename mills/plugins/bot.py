@@ -13,7 +13,7 @@
 - <code>/calender</code>: Get current month calender.
 ──────────────────────
 
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
+JOIN <a href="https://t.me/ccxentool">CCXENTOOL</a>
 """
 import calendar
 from datetime import datetime
