@@ -5,7 +5,7 @@
 - <code>/unsplash</code> : Get images from <code>unsplash.com</code>.
 ──────────────────────
 
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
+JOIN <a href="https://t.me/ccxentool">CCXENTOOL</a>
 """
 import asyncio
 import inspect
