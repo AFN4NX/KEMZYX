@@ -34,7 +34,7 @@ async def _(m):
     type = 'hour' if params == 'test' else 'day'
     rand_digit = random.random_integer()
     rand_string = random.random_string(5)
-    key = f"MILLIE-{rand_digit}-{rand_string}-PREMIUM"
+    key = f"KEMZYX-{rand_digit}-{rand_string}-PREMIUM"
     add = {
         '_id': key,
         'data': data,
