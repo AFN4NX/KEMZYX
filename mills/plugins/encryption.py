@@ -7,7 +7,7 @@
 - <code>/decode</code>: base64 decode the given hash.
 ──────────────────────
 
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
+JOIN <a href="https://t.me/ccxentool">CCXENTOOL</a>
 """
 import inspect
 import io
