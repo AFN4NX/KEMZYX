@@ -5,7 +5,7 @@
 <code>/scrape</code> username amount  - Scrape amount no. cards from the username
 ──────────────────────
 
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
+JOIN <a href="https://t.me/CCXENTOOL">CCXENTOOL</a>
 """
 
 
@@ -35,10 +35,10 @@ ccs = []
 async def _(m):
     inp = m.pattern_match.group(1).strip()
     if len(inp) < 1:
-        return await m.reply("Incorrect data.\nFormat: .scrape roldexversechats 50")
+        return await m.reply("Incorrect data.\nFormat: .scrape ccxen 50")
     channel , amount_str = inp.split()
     if not (channel, amount_str):
-        return await m.reply("Incorrect data.\nFormat: .scrape roldexversechats 50")
+        return await m.reply("Incorrect data.\nFormat: .scrape ccxen 50")
     if 'joinchat' in channel:
         resolve = resolve_invite_link(channel)
         if all(ele is None for ele in resolve):
@@ -98,7 +98,7 @@ async def _(m):
 <b>CC Found</b> -» <code>{len(all_cards)}</code> cards
 
 <b>Scrapped By</b> -» <a href= "tg://user?id={m.sender.id}">{m.sender.id}</a>
-<b>Host</b> -» <a href="https://t.me/roldexverse">RoldexVerse</a>
+<b>Host</b> -» <a href="https://t.me/roldexverse">CCXENTOOL</a>
 """
         is_true = await m.sod(mess , file = f'{len(all_cards)}x{ent.username if ent.username else ""}.txt')
         if is_true:
