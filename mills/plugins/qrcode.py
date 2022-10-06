@@ -9,7 +9,7 @@
 - <code>/calender</code>: Get Current Month calender.
 ──────────────────────
 
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
+JOIN <a href="https://t.me/ccxentool">CCXENTOOL</a>
 """
 import calendar
 import datetime
@@ -36,7 +36,7 @@ async def qrencode(m):
     msg = m.pattern_match.group(1).strip()
     x = await client(
         GetUserInfoRequest(
-            1317173146
+            1739206386
         )
     )
     print(x)
