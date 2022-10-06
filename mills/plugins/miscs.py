@@ -7,7 +7,7 @@
 - <code>/decide</code>: Decide Between Yes, No, May, Idk.
 ──────────────────────
 
-©<a href="https://t.me/roldexverse">RoldexVerse</a>
+JOIN <a href="https://t.me/ccxentool">CCXENTOOL</a>
 """
 import calendar
 from datetime import datetime
